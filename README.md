@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harini1703
 - 👀 I’m interested in ...Artifical intelligence,Data science,machine learning
-- 🌱 I’m currently learning ...Python,Java,AI
+- 🌱 I’m currently learning ...Python,Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...harinisugumar173@gmail.com
 
